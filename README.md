@@ -114,6 +114,8 @@ attempt to kill the process. If killing the process fails it will self-destruct 
 ![preedit](sss/textbefore.png)
 ![edit](sss/edit-cmd.png)
 ![afteredit](sss/post-edit-text.png)
+**NOTE: Implants Distinguish which files is their based off their "favorite_character" which is based on the name of the txt file. There will be multiple characters with multiple stories, which will also help with disguising activity since all stories will be fetched. In this case, the implant's favorite character was text**
+![fav-char](sss/fav-char.png)
 ### Running the implant to get the command (non-burning)
 
 ![running](sss/implant-running.png)
